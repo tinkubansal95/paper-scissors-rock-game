@@ -33,9 +33,9 @@ function game() {
     }
 } 
 
-window.alert("Your final score:\n Total Wins: "+wins+"\nTotal Lost: "+losses+"\nTotal ties: "+ties);
-
 game();
+
+window.alert("Your final score:\n Total Wins: "+wins+"\nTotal Lost: "+losses+"\nTotal ties: "+ties);
 
 
 
